@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Kanika2906/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [0844-backspace-string-compare](https://github.com/Kanika2906/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kanika2906/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kanika2906/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Dynamic Programming
@@ -44,4 +45,16 @@
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Kanika2906/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kanika2906/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+## Two Pointers
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Kanika2906/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Kanika2906/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Kanika2906/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
