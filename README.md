@@ -8,12 +8,14 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kanika2906/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0496-next-greater-element-i](https://github.com/Kanika2906/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Kanika2906/leetcode-solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Kanika2906/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1748-sum-of-unique-elements](https://github.com/Kanika2906/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Kanika2906/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 ## Binary Search
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/Kanika2906/leetcode-solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Kanika2906/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Math
 |  |
 | ------- |
