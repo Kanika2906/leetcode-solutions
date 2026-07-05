@@ -25,6 +25,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Kanika2906/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0496-next-greater-element-i](https://github.com/Kanika2906/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Kanika2906/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/Kanika2906/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
@@ -59,6 +60,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kanika2906/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/Kanika2906/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0844-backspace-string-compare](https://github.com/Kanika2906/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
@@ -90,4 +92,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Kanika2906/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Kanika2906/leetcode-solutions/tree/master/0232-implement-queue-using-stacks) |
+## Linked List
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Kanika2906/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
