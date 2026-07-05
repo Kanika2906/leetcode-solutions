@@ -18,6 +18,7 @@
 | [0704-binary-search](https://github.com/Kanika2906/leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kanika2906/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Kanika2906/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kanika2906/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/Kanika2906/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Kanika2906/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 ## Binary Search
@@ -49,6 +50,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Kanika2906/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Kanika2906/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Kanika2906/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kanika2906/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/Kanika2906/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kanika2906/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Kanika2906/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -118,6 +120,7 @@
 | [0088-merge-sorted-array](https://github.com/Kanika2906/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Kanika2906/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Kanika2906/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kanika2906/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Design
 |  |
 | ------- |
@@ -148,4 +151,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kanika2906/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kanika2906/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
