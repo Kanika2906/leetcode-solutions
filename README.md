@@ -19,6 +19,7 @@
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Kanika2906/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1748-sum-of-unique-elements](https://github.com/Kanika2906/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Kanika2906/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Counting
 |  |
 | ------- |
@@ -27,4 +28,5 @@
 |  |
 | ------- |
 | [0771-jewels-and-stones](https://github.com/Kanika2906/leetcode-solutions/tree/master/0771-jewels-and-stones) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Kanika2906/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 <!---LeetCode Topics End-->
