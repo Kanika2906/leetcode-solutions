@@ -16,6 +16,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Kanika2906/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0371-sum-of-two-integers](https://github.com/Kanika2906/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kanika2906/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Hash Table
 |  |
 | ------- |
