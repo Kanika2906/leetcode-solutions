@@ -62,6 +62,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kanika2906/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0225-implement-stack-using-queues](https://github.com/Kanika2906/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/Kanika2906/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/Kanika2906/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Simulation
@@ -76,4 +77,12 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kanika2906/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Kanika2906/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/Kanika2906/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
