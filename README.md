@@ -65,6 +65,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Kanika2906/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/Kanika2906/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Kanika2906/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0844-backspace-string-compare](https://github.com/Kanika2906/leetcode-solutions/tree/master/0844-backspace-string-compare) |
@@ -102,6 +103,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/Kanika2906/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kanika2906/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Kanika2906/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Kanika2906/leetcode-solutions/tree/master/0206-reverse-linked-list) |
