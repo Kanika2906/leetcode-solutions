@@ -22,6 +22,7 @@
 | [0875-koko-eating-bananas](https://github.com/Kanika2906/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kanika2906/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Kanika2906/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1480-running-sum-of-1d-array](https://github.com/Kanika2906/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1748-sum-of-unique-elements](https://github.com/Kanika2906/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Kanika2906/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 ## Binary Search
@@ -164,6 +165,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kanika2906/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/Kanika2906/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Counting Sort
 |  |
 | ------- |
