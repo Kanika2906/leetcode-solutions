@@ -81,6 +81,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Kanika2906/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Kanika2906/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Kanika2906/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kanika2906/leetcode-solutions/tree/master/0088-merge-sorted-array) |
@@ -129,6 +130,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Kanika2906/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/Kanika2906/leetcode-solutions/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kanika2906/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Kanika2906/leetcode-solutions/tree/master/0141-linked-list-cycle) |
