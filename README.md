@@ -37,6 +37,7 @@
 | [0371-sum-of-two-integers](https://github.com/Kanika2906/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Kanika2906/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kanika2906/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/Kanika2906/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 ## Hash Table
 |  |
 | ------- |
@@ -147,5 +148,4 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Kanika2906/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
-
 <!---LeetCode Topics End-->
