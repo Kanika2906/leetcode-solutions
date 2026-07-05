@@ -104,4 +104,9 @@
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Kanika2906/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Kanika2906/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0206-reverse-linked-list](https://github.com/Kanika2906/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/Kanika2906/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
