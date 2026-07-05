@@ -25,6 +25,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Kanika2906/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0371-sum-of-two-integers](https://github.com/Kanika2906/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/Kanika2906/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kanika2906/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Hash Table
 |  |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Kanika2906/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0412-fizz-buzz](https://github.com/Kanika2906/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0771-jewels-and-stones](https://github.com/Kanika2906/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0844-backspace-string-compare](https://github.com/Kanika2906/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kanika2906/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -77,6 +79,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Kanika2906/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/Kanika2906/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
