@@ -7,6 +7,7 @@
 | [0001-two-sum](https://github.com/Kanika2906/leetcode-solutions/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kanika2906/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Kanika2906/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/Kanika2906/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Kanika2906/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Kanika2906/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Kanika2906/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -86,6 +87,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kanika2906/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/Kanika2906/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Kanika2906/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Kanika2906/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -184,4 +186,8 @@
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/Kanika2906/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Kanika2906/leetcode-solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
