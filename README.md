@@ -52,6 +52,7 @@
 | [0371-sum-of-two-integers](https://github.com/Kanika2906/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Kanika2906/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Kanika2906/leetcode-solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kanika2906/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Kanika2906/leetcode-solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Kanika2906/leetcode-solutions/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Kanika2906/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Kanika2906/leetcode-solutions/tree/master/0371-sum-of-two-integers) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Kanika2906/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Kanika2906/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kanika2906/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Two Pointers
