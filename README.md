@@ -30,6 +30,7 @@
 | [0496-next-greater-element-i](https://github.com/Kanika2906/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/Kanika2906/leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kanika2906/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/Kanika2906/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Kanika2906/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kanika2906/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Kanika2906/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -151,6 +152,7 @@
 | [0054-spiral-matrix](https://github.com/Kanika2906/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0412-fizz-buzz](https://github.com/Kanika2906/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0844-backspace-string-compare](https://github.com/Kanika2906/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [0867-transpose-matrix](https://github.com/Kanika2906/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kanika2906/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Monotonic Stack
 |  |
@@ -217,6 +219,7 @@
 | [0048-rotate-image](https://github.com/Kanika2906/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Kanika2906/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Kanika2906/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0867-transpose-matrix](https://github.com/Kanika2906/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Kanika2906/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Divide and Conquer
 |  |
