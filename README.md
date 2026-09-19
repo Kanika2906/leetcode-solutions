@@ -43,6 +43,7 @@
 | [1748-sum-of-unique-elements](https://github.com/Kanika2906/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kanika2906/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Kanika2906/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Kanika2906/leetcode-solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -91,6 +92,7 @@
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Kanika2906/leetcode-solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Kanika2906/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/Kanika2906/leetcode-solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [4048-count-values-with-equally-spaced-occurrences-i](https://github.com/Kanika2906/leetcode-solutions/tree/master/4048-count-values-with-equally-spaced-occurrences-i) |
 ## Counting
 |  |
 | ------- |
