@@ -90,6 +90,7 @@
 | [0217-contains-duplicate](https://github.com/Kanika2906/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Kanika2906/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Kanika2906/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/Kanika2906/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kanika2906/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Kanika2906/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/Kanika2906/leetcode-solutions/tree/master/0771-jewels-and-stones) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kanika2906/leetcode-solutions/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Kanika2906/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kanika2906/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1748-sum-of-unique-elements](https://github.com/Kanika2906/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
 | [2206-divide-array-into-equal-pairs](https://github.com/Kanika2906/leetcode-solutions/tree/master/2206-divide-array-into-equal-pairs) |
@@ -117,6 +119,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Kanika2906/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Kanika2906/leetcode-solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Kanika2906/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Kanika2906/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kanika2906/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Kanika2906/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Kanika2906/leetcode-solutions/tree/master/0412-fizz-buzz) |
