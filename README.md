@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kanika2906/leetcode-solutions/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/Kanika2906/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Kanika2906/leetcode-solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Kanika2906/leetcode-solutions/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kanika2906/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -110,6 +111,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Kanika2906/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Kanika2906/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/Kanika2906/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Kanika2906/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -328,4 +330,8 @@
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Kanika2906/leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Kanika2906/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
