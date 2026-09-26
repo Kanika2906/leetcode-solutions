@@ -57,6 +57,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Kanika2906/leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kanika2906/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kanika2906/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/Kanika2906/leetcode-solutions/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/Kanika2906/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/Kanika2906/leetcode-solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Kanika2906/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -348,4 +349,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kanika2906/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Kanika2906/leetcode-solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
