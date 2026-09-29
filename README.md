@@ -114,6 +114,7 @@
 | [0383-ransom-note](https://github.com/Kanika2906/leetcode-solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Kanika2906/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Kanika2906/leetcode-solutions/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/Kanika2906/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/Kanika2906/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Kanika2906/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1748-sum-of-unique-elements](https://github.com/Kanika2906/leetcode-solutions/tree/master/1748-sum-of-unique-elements) |
@@ -153,6 +154,7 @@
 | [0392-is-subsequence](https://github.com/Kanika2906/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Kanika2906/leetcode-solutions/tree/master/0412-fizz-buzz) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kanika2906/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/Kanika2906/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0709-to-lower-case](https://github.com/Kanika2906/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/Kanika2906/leetcode-solutions/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/Kanika2906/leetcode-solutions/tree/master/0796-rotate-string) |
@@ -203,6 +205,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Kanika2906/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Kanika2906/leetcode-solutions/tree/master/0392-is-subsequence) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Kanika2906/leetcode-solutions/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0567-permutation-in-string](https://github.com/Kanika2906/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/Kanika2906/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Kanika2906/leetcode-solutions/tree/master/0876-middle-of-the-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Kanika2906/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -393,6 +396,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kanika2906/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Kanika2906/leetcode-solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/Kanika2906/leetcode-solutions/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Kanika2906/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Kanika2906/leetcode-solutions/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Kanika2906/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
