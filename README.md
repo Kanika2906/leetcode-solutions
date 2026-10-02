@@ -435,6 +435,7 @@
 ## Database
 |  |
 | ------- |
+| [1667-fix-names-in-a-table](https://github.com/Kanika2906/leetcode-solutions/tree/master/1667-fix-names-in-a-table) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Kanika2906/leetcode-solutions/tree/master/1757-recyclable-and-low-fat-products) |
 | [1873-calculate-special-bonus](https://github.com/Kanika2906/leetcode-solutions/tree/master/1873-calculate-special-bonus) |
 <!---LeetCode Topics End-->
