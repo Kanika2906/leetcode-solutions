@@ -435,6 +435,7 @@
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/Kanika2906/leetcode-solutions/tree/master/0196-delete-duplicate-emails) |
 | [0550-game-play-analysis-iv](https://github.com/Kanika2906/leetcode-solutions/tree/master/0550-game-play-analysis-iv) |
 | [1075-project-employees-i](https://github.com/Kanika2906/leetcode-solutions/tree/master/1075-project-employees-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/Kanika2906/leetcode-solutions/tree/master/1174-immediate-food-delivery-ii) |
