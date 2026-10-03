@@ -443,6 +443,7 @@
 | [1174-immediate-food-delivery-ii](https://github.com/Kanika2906/leetcode-solutions/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/Kanika2906/leetcode-solutions/tree/master/1193-monthly-transactions-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Kanika2906/leetcode-solutions/tree/master/1327-list-the-products-ordered-in-a-period) |
+| [1484-group-sold-products-by-the-date](https://github.com/Kanika2906/leetcode-solutions/tree/master/1484-group-sold-products-by-the-date) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Kanika2906/leetcode-solutions/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/Kanika2906/leetcode-solutions/tree/master/1527-patients-with-a-condition) |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Kanika2906/leetcode-solutions/tree/master/1633-percentage-of-users-attended-a-contest) |
